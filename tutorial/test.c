@@ -1,2 +1,4 @@
-assdadf from test
--1번아이디에서 고쳤습니다.
+
+88888 from test
+2번아이디에서 고쳤습니다!
+
